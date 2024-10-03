@@ -315,18 +315,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
-
-
 ## Output screen shots of proteus  :
-![OFF](https://github.com/Udhayasankaran04/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393933/e5aba808-4696-4147-900e-24e1b68c456d)
-![ON](https://github.com/Udhayasankaran04/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393933/a1613c24-183d-467e-a4e0-ea703dfd3188)
+### OFF:
+![WhatsApp Image 2024-10-03 at 09 44 48_5083d0f1](https://github.com/user-attachments/assets/c1ab675b-9ea0-40f6-956c-aaa39f27e80e)
+### ON:
+![WhatsApp Image 2024-10-03 at 09 45 02_155a8a26](https://github.com/user-attachments/assets/9fe89f9a-e447-447c-a6be-daafc1650487)
 
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Screenshot 2023-05-26 141439](https://github.com/Udhayasankaran04/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/119393933/75ef9345-de3b-4cbb-8c3b-f95d86470cf8)
 
- 
- 
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+![WhatsApp Image 2024-10-03 at 09 45 30_5d4e7d36](https://github.com/user-attachments/assets/4c5c1767-e610-4f09-b7c1-57fb77579ff2)
+
+  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
